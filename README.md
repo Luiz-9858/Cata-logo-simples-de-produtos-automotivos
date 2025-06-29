@@ -1,5 +1,5 @@
 # Catálogo simples de produtos automotivos
-Um catálogo simples desenvolvido pra o cliente
+Um catálogo simples desenvolvido para o cliente
 
 # 🚗 B77 Auto Parts - Catálogo Online
 
